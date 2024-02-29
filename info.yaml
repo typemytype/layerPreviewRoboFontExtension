@@ -1,0 +1,14 @@
+name: Layer Preview
+developer: 'TypeMyType'
+developerURL: http://www.TypeMyType.com
+launchAtStartUp: false
+mainScript: ''
+version: '1.1'
+addToMenu:
+- path: layerWindow.py
+  preferredName: Layer Window
+  shortKey: ''
+html: false
+timeStamp: 1339084427.46032
+requiresVersionMajor: '1'
+requiresVersionMinor: '2'
